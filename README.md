@@ -1,0 +1,1 @@
+# csharp_clean_architecture_hexagonal_sqlserver
